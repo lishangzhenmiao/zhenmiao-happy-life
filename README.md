@@ -1,4 +1,4 @@
-# pandas
+# Data science  Go~
 主要项目内容：
 
 --data science case--
